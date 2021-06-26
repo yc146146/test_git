@@ -14,5 +14,6 @@ func main() {
 	fmt.Println("master git4")
 	fmt.Println("hotfix git1")
 	fmt.Println("master push")
+	fmt.Println("master pull test")
 
 }
