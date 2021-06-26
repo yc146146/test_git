@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("hello world!")
 	test()
 	fmt.Println("wancheng")
+	fmt.Println("hello git4")
+
 }
