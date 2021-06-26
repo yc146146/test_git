@@ -11,5 +11,6 @@ func main() {
 	test()
 	fmt.Println("wancheng")
 	fmt.Println("hello git4")
+	fmt.Println("master git4")
 
 }
