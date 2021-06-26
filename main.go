@@ -9,4 +9,5 @@ func test() {
 func main() {
 	fmt.Println("hello world!")
 	test()
+	fmt.Println("wancheng")
 }
